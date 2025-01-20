@@ -6,7 +6,7 @@ var tl = gsap.timeline({
     start: "top 95%",
     end: "bottom 50%",
     scrub: true,
-    markers: true,
+    markers: false,
   },
 });
 
